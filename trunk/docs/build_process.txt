@@ -66,3 +66,4 @@ Build/Package Standalone version
 
 Reference:
 	http://www.eclipse.org/articles/article.php?file=Article-Update/index.html
+	Jar Mac App Bundler: https://docs.oracle.com/javase/7/docs/technotes/guides/jweb/packagingAppsForMac.html
