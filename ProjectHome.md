@@ -1,12 +1,14 @@
 
 
-<IMG src="http://img97.imageshack.us/img97/1817/logoia.gif" height="14" width="14">
-REST Client Tool
+<h3>
+<IMG src="http://img97.imageshack.us/img97/1817/logoia.gif" height="20" width="20">
+REST Client
+</h3>
 
 <a href='http://www.softpedia.com/get/Programming/Other-Programming-Files/RESTClient-Tool.shtml'>
-<IMG src="http://www.softpedia.com/_img/softpedia_100_clean.png" align="right"><br>
-<a/>
-<b/>
+<IMG src="http://www.softpedia.com/_img/softpedia_100_clean.png" align="right">
+</a>
+
 <h4>Introduction</h4>
 Feature rich rest client for developers to play with RESTful web services. It can be used to test any URL for following HTTP methods<br>
 <ul><li>GET<br>
@@ -38,21 +40,12 @@ Feature rich rest client for developers to play with RESTful web services. It ca
 <tr><td> Linux     </td><td> executable </td><td> executable jar        </td><td> <a href='http://code.google.com/a/eclipselabs.org/p/restclient-tool/downloads/detail?name=code.google.restclient.tool_1.0.3.jar'>plugin jar</a> </td><td> <a href='https://svn.codespot.com/a/eclipselabs.org/restclient-tool/trunk/eclipse/update/'>https://svn.codespot.com/a/eclipselabs.org/restclient-tool/trunk/eclipse/update/</a> </td></tr></tbody></table>
 
 After installing eclipse plugin it can be found @ Window -> Show View -> Other -> REST Client -> <code>RestClient Tool</code>
-<br>
-<br>
-<BR><br>
-<br>
-<br>
-<br>
-<BR><br>
-<br>
-<br>
+<br/>
 Note:- It warns about unsigned jar while running for the first time. This is because standard SWT distribution jar is bundled with OS specific libraries to interact with native look and feel widgets of OS i.e. it has few DLLs for windows. For more info visit <a href='http://www.eclipse.org/swt'>http://www.eclipse.org/swt</a>
 
 <h4>SSL Handling</h4>
 All SSL validations are disabled by default. User can customize/override default behavior.<br>
 Please go through <a href='http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/docs/ssl-handling.txt'>documentation</a>.<br>
-<br>
 <br>
 <h4>Screen Shots</h4>
 XML Response<br>
@@ -68,7 +61,7 @@ Rest Client as Eclipse Plugin<br>
 <img src='http://img256.imageshack.us/img256/2269/screenshot4jb.jpg' />
 
 <br>
-Documentation:
+<h4>Documentation:</h4>
 <br>
 <a href='http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/docs/ssl-handling.txt'>http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/docs/ssl-handling.txt</a>
 <br>
