@@ -1,33 +1,12 @@
 
 
-&lt;IMG src="http://img97.imageshack.us/img97/1817/logoia.gif" height="14" width="14"&gt;
-
- 
-
-&lt;B&gt;
-
-
-
-&lt;FONT size="3"&gt;
-
-REST Client
-
-&lt;/FONT&gt;
-
-
-
-&lt;/B&gt;
-
- Tool
+<IMG src="http://img97.imageshack.us/img97/1817/logoia.gif" height="14" width="14">
+REST Client Tool
 
 <a href='http://www.softpedia.com/get/Programming/Other-Programming-Files/RESTClient-Tool.shtml'>
-<br>
-<br>
 <IMG src="http://www.softpedia.com/_img/softpedia_100_clean.png" align="right"><br>
-<br>
-<br>
-<br>
-<br>
+<a/>
+<b/>
 <h4>Introduction</h4>
 Feature rich rest client for developers to play with RESTful web services. It can be used to test any URL for following HTTP methods<br>
 <ul><li>GET<br>
@@ -88,6 +67,13 @@ Image Response <code>[Google Static Map]</code>
 Rest Client as Eclipse Plugin<br>
 <img src='http://img256.imageshack.us/img256/2269/screenshot4jb.jpg' />
 
+<br>
+Documentation:
+<br>
+<a href='http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/docs/ssl-handling.txt'>http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/docs/ssl-handling.txt</a>
+<br>
+<a href='http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/standalone/conf/rest-client_override.properties'>http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/standalone/conf/rest-client_override.properties</a>
+
 <h3>Releases</h3>
 
 <h4>Release 1.0.3 - September 12, 2011</h4>
@@ -95,21 +81,6 @@ Issue Fixed:<br>
 <a href='http://code.google.com/a/eclipselabs.org/p/restclient-tool/issues/detail?id=8'>http://code.google.com/a/eclipselabs.org/p/restclient-tool/issues/detail?id=8</a>
 
 Fix includes enhancements for SSL Handling.<br>
-<br>
-Documentation:<br>
-<br>
-<br>
-<BR><br>
-<br>
-<br>
-<a href='http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/docs/ssl-handling.txt'>http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/docs/ssl-handling.txt</a>
-<br>
-<br>
-<BR><br>
-<br>
-<br>
-<a href='http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/standalone/conf/rest-client_override.properties'>http://code.google.com/a/eclipselabs.org/p/restclient-tool/source/browse/trunk/standalone/conf/rest-client_override.properties</a>
-
 
 <h4>Release 1.0.2 - July 22, 2010</h4>
 
